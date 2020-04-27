@@ -1,19 +1,37 @@
 
-# First install lerna globally
-- Run `npm i -g lerna`
+### First install lerna globally
+- Run
+```
+npm i -g lerna
+```
 
-# Then install packages
-- Run `yarn bootstrap`
+### Then install packages
+- Run
+```
+yarn bootstrap
+```
 
-# Start Web Version
-- Run `yarn web`
+### Start Web Version
+- Run 
+```
+yarn web
+```
 
-# Start Mobile Version
-- Run `yarn mobile`
+### Start Mobile Version
+- Run
+```
+yarn mobile
+```
 
 
-## Delete All Node Modules
-- Run `yarn clean`
+#### Delete All Node Modules
+- Run
+```
+yarn clean
+```
 
-## Clean Cache, Delete All Node Modules and reinstall again
-- Run `yarn reset`
+#### Clean Cache, Delete All Node Modules and reinstall again
+- Run
+```
+yarn reset
+```
